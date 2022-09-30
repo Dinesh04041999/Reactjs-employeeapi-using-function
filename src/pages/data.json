@@ -1,0 +1,56 @@
+ 
+[
+    {
+      "id": "SPC0001",
+      "employeename": "TigerNixon",
+      "employeesalary": 320800,
+      "employeeage": 41,
+      "email": "tiger@gmail.com",
+      "designation":"Developer",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+    },
+    {
+      "id": "SPC0002",
+      "employeename": "GarrettWinters",
+      "employeesalary": 170750,
+      "employeeage": 53,
+      "email": "garrett@gmail.com",
+      "designation":"Tester",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+            
+    },
+    {
+      "id": "SPC0003",
+      "employeename": "AshtonCox",
+      "employeesalary": 86000,
+      "employeeage": 56,
+      "email": "ashton@gmail.com",
+      "designation": "Analyst",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
+    },
+    {
+      "id": "SPC0004",
+      "employeename": "CedricKelly",
+      "employeesalary": 433060,
+      "employeeage": 22,
+      "email": "cedric@gmail.com",
+      "designation": "Dataengineer",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
+    },
+    {
+      "id": "SPC0005",
+      "employeename": "AiriSatou",
+      "employeesalary": 162700,
+      "employeeage": 33,
+      "email": "airi@gmail.com",
+      "designation": "Software",
+      "file":"https://cdn4.iconfinder.com/data/icons/small-n-flat/24/user-512.png"
+
+
+    }
+  ]
